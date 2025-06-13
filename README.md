@@ -14,7 +14,7 @@ This repository contains the implementation of a single-head multi-task model fo
 ## Setup Instructions
 
 1. Prepare the data by running the code in 'scripts/' and combine it into one .zip file
-2. Open the notebook in Google Colab.
+2. Download and open the main notebook in Google Colab.
 3. Run all cells sequentially to:
    - Import datasets
    - Define and train the model
